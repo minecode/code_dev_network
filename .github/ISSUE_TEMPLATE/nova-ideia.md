@@ -2,7 +2,7 @@
 name: Nova ideia
 about: Descrição curta sobre a ideia
 title: "[IDEIA]"
-labels: enhancement
+labels: ideia
 assignees: ''
 
 ---

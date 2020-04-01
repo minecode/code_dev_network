@@ -2,7 +2,7 @@
 name: Reportar problema
 about: Reportar um problema para ajudar a melhorar a aplicação
 title: "[PROBLEMA]"
-labels: bug
+labels: problema
 assignees: ''
 
 ---
